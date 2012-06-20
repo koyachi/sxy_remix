@@ -1,0 +1,11 @@
+.DS_Store
+*.aif
+sxyREMIX.txt
+*.mp3
+*.wav
+segments.css
+segments.html
+segments.js
+#segments.json
+segments.json.old
+d3.v2.js
